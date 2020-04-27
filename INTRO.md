@@ -1,6 +1,6 @@
 **Staked operates highly reliable and secure staking infrastructure for 20+ PoS protocols** on behalf of the leading crypto asset investors in the industry.
 
-**<div align="center"><u>Our Architecture:</u></div>**
+**_<div align="center">Our Architecture:</div>_**
 
 * **Highly Reliable and Secure:**
 We use Kubernetes to distribute across multiple cloud providers, and have never been slashed, hacked, or experienced extended downtime in 2+ years of operation.
