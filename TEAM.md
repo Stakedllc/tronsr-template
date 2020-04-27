@@ -1,3 +1,4 @@
+## About us
 The Staked team has a long and successful track record of starting, building and operating web services at companies such as IAC/InterActiveCorp, Vimeo, AdBuyer/MediaOcean, PlanetTran, Flavors.me, Haystagg and Think Gaming (YC 2014).
 
 ## Tim Ogilvie, CEO
